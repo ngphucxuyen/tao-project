@@ -16,9 +16,13 @@ namespace demo
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+<<<<<<< HEAD
             //moi them o master
             //Quoc Khanh
 
+=======
+            //comment tao-nhanh
+>>>>>>> tao-nhanh
         }
     }
 }
