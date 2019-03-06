@@ -17,6 +17,7 @@ namespace demo
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
             //moi them o master
+
         }
     }
 }
